@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\c#\PharmacyAppOnLesson\PharmacyAppOnLesson\bin\Debug\PharmacyAppOnLesson.exe.config
+C:\Users\User\Desktop\c#\PharmacyAppOnLesson\PharmacyAppOnLesson\bin\Debug\PharmacyAppOnLesson.exe
+C:\Users\User\Desktop\c#\PharmacyAppOnLesson\PharmacyAppOnLesson\bin\Debug\PharmacyAppOnLesson.pdb
+C:\Users\User\Desktop\c#\PharmacyAppOnLesson\PharmacyAppOnLesson\obj\Debug\PharmacyAppOnLesson.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\PharmacyAppOnLesson\PharmacyAppOnLesson\obj\Debug\PharmacyAppOnLesson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\PharmacyAppOnLesson\PharmacyAppOnLesson\obj\Debug\PharmacyAppOnLesson.exe
+C:\Users\User\Desktop\c#\PharmacyAppOnLesson\PharmacyAppOnLesson\obj\Debug\PharmacyAppOnLesson.pdb
